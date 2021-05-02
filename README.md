@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on your project
 - 🤔 I’m looking for help with Front-end development
 - 💬 Ask me about Front-end Development
-- 📫 How to reach me: [`Linkedin`](linkedin.com/in/imtiajAhmed)
+- 📫 How to reach me: [`Linkedin`](https://www.linkedin.com/in/imtiaj-ahmed723/)
 - ⚡ Fun fact: Coffee addicted
 
 
