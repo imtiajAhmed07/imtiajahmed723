@@ -1,6 +1,6 @@
 ### Hello, I'm Imtiaj Ahmed 👋
 
-I'm a MERN developer. A lazy person but a capable developer with a deep interst in Front-End. Always learn a new tech is my habit. I always stay hungry to learn something new. Most of the time in a day I pass my time with coding.
+
 
 
 - 🔭 I’m currently working on MERN development
